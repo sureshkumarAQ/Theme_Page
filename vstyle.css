@@ -21,6 +21,7 @@ body {
   display: flex;
   min-height: 80vh;
   color: #fff;
+  z-index:100;
   /* font-family: "Permanent Marker", cursive; */
   /* font-size: 6px; */
 }
@@ -43,6 +44,7 @@ body {
   font-family: "Architects Daughter", cursive;
   font-size: 20px;
   color: #edfafb;
+  z-index:1001;
 }
 
 @media screen and (max-width: 800px) {
